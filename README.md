@@ -2,6 +2,6 @@
 Cs-250 assignment
 Hello everyone! welcome to my github page.
 
-I am the owner coltongordon.github.io
+I am the owner [coltongordon.github.io](https://coltongordon.github.io/)
 
 Check me out!
